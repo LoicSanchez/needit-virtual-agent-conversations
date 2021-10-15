@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>you recently created the following record, do you want to modify it?</key>
+        <language>en</language>
+        <message>You recently created the following record, do you want to modify it?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-11 18:19:16</sys_created_on>
+        <sys_id>da3d6d472f473010a81b532a2799b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>you recently created the following record, do you want to modify it?</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_405351_needit_va">933ac7c52f473010a81b532a2799b68b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">933ac7c52f473010a81b532a2799b68b</sys_scope>
+        <sys_update_name>sys_ui_message_da3d6d472f473010a81b532a2799b618</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 18:19:16</sys_updated_on>
+    </sys_ui_message>
+</record_update>
